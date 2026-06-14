@@ -1,2 +1,3 @@
 # Mini-Project
-A simple beginner level random password generator
+A simple beginner level Mini-projects.
+
